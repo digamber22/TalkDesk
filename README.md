@@ -1,6 +1,6 @@
-# Zoom Clone
+# TalkDesk
 
-This is a full-stack web application that replicates the core functionalities of Zoom, a popular video conferencing tool. It includes real-time video and audio communication, screen sharing, and meeting management features.
+This is a full-stack web application that replicates the core functionalities of a video conferencing tool. It includes real-time video and audio communication, screen sharing, and meeting management features.
 
 ## Features
 
