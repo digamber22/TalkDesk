@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: zoom-backend
+    name: talkdesk-backend
     env: node
     plan: free
     buildCommand: 'npm install'
